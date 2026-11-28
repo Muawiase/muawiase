@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="92" viewBox="0 0 840 92" role="img" aria-label="Activity: contribution graph">
+<title>Activity: contribution graph</title>
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;}</style>
+<polygon points="0,13 11,0 101,0 112,13 101,26 11,26" fill="#000033"/><text x="19" y="17.5" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="start" letter-spacing="1.6">ACTIVITY</text>
+<text x="-2" y="66" font-size="32" font-weight="300" fill="#000033" text-anchor="start" letter-spacing="-0.6">Contribution graph</text>
+</svg>

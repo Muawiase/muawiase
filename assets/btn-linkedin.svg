@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="56" viewBox="0 0 280 56" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;}</style>
+<polygon points="8.75,28 30.25,0.75 257.75,0.75 279.25,28 257.75,55.25 30.25,55.25" fill="#FFFFFF" stroke="#000DFF" stroke-width="1.5" stroke-linejoin="miter"/>
+<rect x="42" y="18" width="20" height="20" rx="3" fill="#0A66C2"/><text x="52" y="33.5" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-0.3">in</text>
+<text x="74" y="34" font-size="15" font-weight="600" fill="#000DFF" text-anchor="start" letter-spacing="0.3">LinkedIn</text>
+<g fill="none" stroke="#000DFF" stroke-width="2"><line x1="226" y1="28" x2="244" y2="28"/><polyline points="237,21 244,28 237,35"/></g>
+</svg>

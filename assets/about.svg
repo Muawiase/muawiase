@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="290" viewBox="0 0 840 290" role="img" aria-label="About: I'm Muawia, a full stack developer who turns ideas into working products. Lately I've been building Claude-powered apps and taking them all the way to deployment with Python, Node.js, Next.js and Docker. Education: Software Engineering (BSE), Cavendish University Uganda, currently studying.">
+<title>About: I'm Muawia, a full stack developer who turns ideas into working products. Lately I've been building Claude-powered apps and taking them all the way to deployment with Python, Node.js, Next.js and Docker. Education: Software Engineering (BSE), Cavendish University Uganda, currently studying.</title>
+<style>text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;}</style>
+<rect x="0.5" y="0.5" width="839" height="281" rx="16" fill="#000033" stroke="#1F2477" stroke-width="1"/>
+<polygon points="804,27 813,36 804,45 795,36" fill="none" stroke="#666EFF" stroke-width="1"/><polygon points="804,31.5 808.5,36 804,40.5 799.5,36" fill="#000DFF"/>
+<polygon points="32,41 43,28 105,28 116,41 105,54 43,54" fill="#000DFF"/><text x="51" y="45.5" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="start" letter-spacing="1.6">ABOUT</text>
+<text x="32" y="104" font-size="19" font-weight="300" fill="#FFFFFF" text-anchor="start" letter-spacing="0">I'm Muawia, a full stack developer who turns ideas into working products.</text>
+<text x="32" y="134" font-size="19" font-weight="300" fill="#FFFFFF" text-anchor="start" letter-spacing="0">Lately I've been building Claude-powered apps and taking them all the way to</text>
+<text x="32" y="164" font-size="19" font-weight="300" fill="#FFFFFF" text-anchor="start" letter-spacing="0">deployment with Python, Node.js, Next.js and Docker.</text>
+<line x1="32" y1="198.5" x2="808" y2="198.5" stroke="#1F2477" stroke-width="1"/>
+<polygon points="32,239 43,226 143,226 154,239 143,252 43,252" fill="#000DFF"/><text x="51" y="243.5" font-size="11" font-weight="700" fill="#FFFFFF" text-anchor="start" letter-spacing="1.6">EDUCATION</text>
+<text x="168" y="244" font-size="16" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="0">Software Engineering (BSE), Cavendish University Uganda</text>
+<polygon points="650.32,235 654.32,239 650.32,243 646.32,239" fill="#00FF3C"/>
+<text x="808" y="244" font-size="13" font-weight="500" fill="#B3B7FF" text-anchor="end" letter-spacing="0.5">Currently studying</text>
+</svg>
